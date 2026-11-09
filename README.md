@@ -1,4 +1,4 @@
-__React • Three.js • React Three Fiber • TypeScript • Potree • 3D Mathematics • Responsive UI/UX • Graphic Design • Tailwind • Storybook • REST APIs__
+__React • Three.js • React Three Fiber • WebGL • TypeScript • Potree • 3D Mathematics • Responsive UI/UX • Graphic Design • Tailwind • Storybook • REST APIs__
 
 Front-end Engineer specialising in React, Three.js, React Three Fiber, TypeScript and Potree. Past clients include Meta, Facebook, Instagram, Google FitBit, BT and Sky TV. Professional experience in 3D mathematics, UX/UI. Winner of a number of graphic design awards. Growing interest in low-level graphics rendering with WebGL.
 
